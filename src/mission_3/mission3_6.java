@@ -31,6 +31,7 @@ class Circle2 extends AbstractShape implements ShapeInterface{
     }
 }
 
-
+// TODO: 2024-11-11
+// 이어 해야함
 public class mission3_6 {
 }
